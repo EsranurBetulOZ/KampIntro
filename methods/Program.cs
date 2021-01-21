@@ -2,7 +2,8 @@
 
 namespace methods
 {
-    class Program
+    class 
+Program
     {
         static void Main(string[] args)
         {
@@ -11,7 +12,6 @@ namespace methods
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;
             urun1.Aciklama = "Amasya elması";
-
 
             Urun urun2 = new Urun();
             urun2.Adi = "Karpuz";
